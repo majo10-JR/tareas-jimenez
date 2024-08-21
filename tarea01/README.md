@@ -1,6 +1,6 @@
 # ESTA ES LA TAREA 01
 
-**Estas son mis conclusiones del miro**
+**Estas son mis conclusiones de miro**
 
 Tras la exposición de nuestros tres temas propuestos. El de apuestas online es el que consideramos que tiene un mayor impacto por su uso masivo. Logramos darnos cuenta, con el feedback realizado por ambas profesoras, que si bien es el que consideramos más pertinente en contraste a los demás (ya que estos requieren un enfoque y análisis mayor, donde los datos no están al alcance), del mismo modo que los otros, las apuestas en línea carecen de datos concretos. 
 
