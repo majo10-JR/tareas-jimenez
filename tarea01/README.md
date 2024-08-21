@@ -6,4 +6,4 @@ Tras la exposición de nuestros tres temas propuestos. El de apuestas online es 
 
 Por esta razón, es que, para el tema a trabajar en el semestre, debemos encontrar un tema que al igual que estos, nos interese, pero que exista una data ya estudiada, con resultados para utilizarlos como base para nuestro proyecto grupal.
 
-[Este es es el link a MIRO](https://miro.com/welcomeonboard/emVveklNeGQ0TTBJUjY3SXBTOU9acWdBMWZMQnNWclh4b3BvTTh4WElGb2FPOWRXQTdCYkpqNDhGa1prQzhuQnwzNDU4NzY0NTk2NzYxOTEzOTAxfDI=?share_link_id=824897098851)
+[Este es es el link a MIRO](https://miro.com/app/board/uXjVKnzT27k=/?share_link_id=447794557429)
