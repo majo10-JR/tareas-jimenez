@@ -8,7 +8,7 @@ _**esto es negrita y cursiva**_
 - obj2
 - obj3
 
-[Esto se ve](https://sso.uc.cl/cas/login?service=https%3A%2F%2Fcursos.canvas.uc.cl%2Flogin%2Fcas)
+[Codepen](https://codepen.io/search/pens?q=resume%20cv)
 
 Imagen 
 
