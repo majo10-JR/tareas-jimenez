@@ -1,31 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="https://fonts.googleapis.com/css2?family=Helvetica+Neue&display=swap" rel="stylesheet">
-    
     <style>
         body {
             font-family: 'Helvetica Neue', Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: #f9f9f9;
+            background:#edeced;
         }
-
-        .resume {
-            display: flex;
-            margin: 30px auto;
-            width: 85%;
-            background: #ecf0f1 ; 
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
-        }
+            .resume {
+                display: flex;
+                margin: 30px auto;
+                width: 85%;
+                background-color: #edeced; 
+                border-radius: 10px;
+                overflow: hidden;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 
         .resume_left {
             width: 35%;
             padding: 20px;
-            background: #34495e; 
-            color: #ecf0f1; 
+            background: #597b6a; 
+            color: #edeced; 
         }
 
         .resume_left img {
@@ -33,12 +29,12 @@
             width: 120px;
             margin: 0 auto 15px;
             display: block;
-            border: 3px solid #ecf0f1; 
+            border: 3px solid #edeced; 
         }
 
         .resume_left .title {
             text-align: center;
-            font-size: 20px;
+            font-size: 25px;
             font-weight: bold;
             margin-bottom: 20px;
         }
@@ -62,7 +58,7 @@
 
         .resume_left .resume_item {
 /* Línea de separación en el lado derecho */
-            border-bottom: 3px solid #ecf0f1; 
+            border-bottom: 3px solid #edeced; 
             padding-bottom: 15 px; 
             margin-bottom: 20px;  
         }
@@ -76,27 +72,22 @@
             font-size: 24px;
             font-weight: bold;
             margin-bottom: 15px;
-            color: #2c3e50;
+            color: #597b6a;
         }
 
         a {
             text-decoration: none;
-            color: #3498db;
+            color:#09ab5d;
         }
         a:hover {
             text-decoration: underline;
         }
         .resume_right .resume_item {
             /* Línea de separación en el lado derecho */
-            border-bottom: 5px solid #2c3e50; 
+            border-bottom: 5px solid #597b6a; 
             padding-bottom: 15 px; 
             margin-bottom: 20px;  
         }
-          /* Diseño responsive */
-        @media screen and (max-width: 768px) {
-            .resume {
-                flex-direction: column;
-                width: 95%;
             }
 
             .resume_left, .resume_right {
@@ -108,8 +99,6 @@
                 width: 100px;
             }
         }
-    </style>
-</head>
-<body>
+
 </body>
 </html>
