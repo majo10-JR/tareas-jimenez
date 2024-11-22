@@ -39,3 +39,4 @@ En cuanto al **estilo.CSS**, utilicé la tipografía 'Helvetica Neue'y los color
 
 Este fue lo que **más me costó**, ya que al darle precisamente el estilo al CV, es que cada cambio que hacía como los colores o tamaños de las letras, las debía revisar inmediatemente en la visualización ya que no sabía si realmente estaba quedando de la mejor manera. Lo mismo me pasó con los márgenes y subtítulos de las distintas secciones. Ya que podría tener bien el HTML, que es el esqueleto pero la disposición de una manera errónea, por lo que el resultado podría no ser el mejor, por lo mismo tuve que eliminar y agregar varias veces codigos y elementos, hasta que quedara todo bien.
 
+[Link a mi CV](https://majo10-jr.github.io/tareas-jimenez/)
