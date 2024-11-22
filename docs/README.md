@@ -24,8 +24,8 @@ Para hacer ambas secciones, me inspiré por una plantilla de [Codepen](https://c
 Por eso dividí en tres secciones:
 
 - Foto de perfil.
-- Información personal, incluye datos nombre, profesión, teléfono, correo electrónico y ubicación.
-- Y por último los íconos de Font Awesome para que sea más estético y tenga más elementos.
+- Información personal, incluye datos nombre, profesión, teléfono, correo electrónico y ubicación. Con los íconos de Font Awesome para que sea más estético y tenga más elementos.
+- Y con mis habilidades e intereses personales.
 
 **Lado derecho**:
 - Perfil
