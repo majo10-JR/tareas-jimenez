@@ -29,8 +29,8 @@ Por eso dividí en tres secciones:
 
 **Lado derecho**:
 - Perfil
-- Educación: .
-- Experiencia laboral:
+- Educación
+- Experiencia laboral
 
 **Y finalmente en pie de página** ( < footer >)
 Agregué un enlace a LinkedIn y mi nombre y año.
