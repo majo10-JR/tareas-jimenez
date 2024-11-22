@@ -37,5 +37,5 @@ Agregué un enlace a LinkedIn y mi nombre y año.
 
 En cuanto al **estilo.CSS**, utilicé la tipografía 'Helvetica Neue'y los colores #edeced y #597b6a. Para generar un contraste en ambos lados, entre el verde y el blanco. 
 
-Este fue lo que **más me costó**, ya que al darle precisamente el estilo al CV, es que cada cambio que hacía como los colores o tamaños de las letras, las debía revisar inmediatemente en la visualización ya que no sabía si realmente estaba quedando de la mejor manera. Lo mismo me pasó con los márgenes y subtítulos de las distintas secciones. Ya que podría tener bien el HTML, que es el esqueleto bueno pero la disposición de una manera errónea.
+Este fue lo que **más me costó**, ya que al darle precisamente el estilo al CV, es que cada cambio que hacía como los colores o tamaños de las letras, las debía revisar inmediatemente en la visualización ya que no sabía si realmente estaba quedando de la mejor manera. Lo mismo me pasó con los márgenes y subtítulos de las distintas secciones. Ya que podría tener bien el HTML, que es el esqueleto pero la disposición de una manera errónea, por lo que el resultado podría no ser el mejor, por lo mismo tuve que eliminar y agregar varias veces codigos y elementos, hasta que quedara todo bien.
 
