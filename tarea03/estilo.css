@@ -25,19 +25,17 @@ body {
 }
 
 .cv_left img {
-    border-radius: 50%;
     width: 120px;
     margin: 0 auto 15px;
     display: block;
-    border: 3px solid #edeced; 
 }
 
 .cv_left .title {
     font-family: 'Helvetica Neue';
     text-align: center;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .cv_left ul {
